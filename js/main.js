@@ -365,7 +365,7 @@ function translateRes() {
   </header>
   <main>
     <section>
-      <div class="container mt-5 m-auto  " id="main-container">
+      <div class="container mt-1 mt-lg-5 m-auto  " id="main-container">
         <div class="row flex-column flex-lg-row h-75">
           <div class="col-12 col-lg-5 p-0  h-100">
             <div class="inner position-relative">
