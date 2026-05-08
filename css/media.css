@@ -1,0 +1,8 @@
+@media (max-width: 991px) {
+  #main-container .row {
+    height: auto !important;
+  }
+  #main-container .row .col-12 {
+    height: auto !important;
+  }
+}
